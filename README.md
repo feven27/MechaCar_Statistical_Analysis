@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis
 Statisitical analysis of automobile preformance with R Studio
 
+![Screenshot 2022-11-22 131100.png](https://github.com/feven27/MechaCar_Statistical_Analysis/blob/main/image/Screenshot%202022-11-22%20131100.png)
 # Linear Regression to Predict MPG
 
 The most significant variables in our dataset which show a non-random effect on the MPG of the MechaCar are the Vechicle_length with a p-value of 2.60e-12 and the Ground Clearance with a p-value 5.21e-08. 
