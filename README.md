@@ -13,6 +13,7 @@ The model does predict the mpg of the MechaCar prototype and Since the R-squared
 ## Summary Statistics on Suspension Coils
 ![lot_summary.png](https://github.com/feven27/MechaCar_Statistical_Analysis/blob/main/image/lot_summary.png)
 ![total_summary.png](https://github.com/feven27/MechaCar_Statistical_Analysis/blob/main/image/total_summary.png)
+
 The total summary the variance of all three lots are under 100 psi and it meets specifications.
 
 lot summary, lot 3 has variance of 170 psi and 1 and 2 have variance below 8 psi.
@@ -21,6 +22,7 @@ overall the manufacturing data meets the maximum variance in psi requirement but
 
 #T-Testing on Suspensions Coils
 ![t.test.png](https://github.com/feven27/MechaCar_Statistical_Analysis/blob/main/image/t.test.png)
-as we can see the sample mean is the same as the population mean of 1500 PSI with p-value of 0.06.
-lot 3 has have diffrent mean from lot 1 and 2. 
+
+As we can see the sample mean is the same as the population mean of 1500 PSI with p-value of 0.06.
+lot 3 have diffrent mean from lot 1 and 2. 
 
